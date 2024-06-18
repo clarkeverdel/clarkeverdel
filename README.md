@@ -19,3 +19,8 @@ Feel free to explore my repositories and get in touch with me. Want to create so
 - My personal website: https://www.clarkeverdel.nl
 - A tribue to the artist MF Doom: https://mfdoom-tribute.vercel.app/
   
+## Certifications
+
+- Github Actions (Certification Program)  
+
+![Github Actions Certificate which belongs to Clarke Verdel](https://github.com/clarkeverdel/clarkeverdel/assets/13994268/c352fa44-920d-44d7-8938-0e6c5d1c74a0)
