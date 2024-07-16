@@ -21,6 +21,8 @@ Feel free to explore my repositories and get in touch with me. Want to create so
   
 ## Certifications
 
-- Github Actions (Certification Program)  
+- Github Actions (Certification Program)
+- AWS Certified Cloud Practitioner 
 
 ![Github Actions Certificate which belongs to Clarke Verdel](https://github.com/clarkeverdel/clarkeverdel/assets/13994268/c352fa44-920d-44d7-8938-0e6c5d1c74a0)
+![AWS Cloud Practitioner Certificate which belongs to Clarke Verdel](https://github.com/user-attachments/assets/6c182c7f-d91d-4a13-88fb-cb1f8ade72d9)
